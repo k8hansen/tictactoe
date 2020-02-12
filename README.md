@@ -1,3 +1,5 @@
+## I'm trying to learn about hooks
+
 This project is done as an excercise in functional components and hooks.  It is a variation of the standard [intro to react tutorial](https://reactjs.org/tutorial/tutorial.html) by Thomas Wiebenfalk, [found here](https://www.youtube.com/watch?v=KsKcoQT_Qyo&lc=z230yvhi1smnur0mdacdp43adkhjzbxojuqutm31gk1w03c010c.1581097904646625).
 
 ***
