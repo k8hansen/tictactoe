@@ -7,8 +7,8 @@ const style = {
   width: "500px;",
   height: "500px",
   margin: "0 auto",
-  display: "grid"
-  gridTemplate:'repeat(3, 1fr / repeat (3, 1fr)'
+  display: "grid",
+  gridTemplate: "repeat(3, 1fr / repeat (3, 1fr)"
 };
 
 // eslint-disable-next-line no-undef
