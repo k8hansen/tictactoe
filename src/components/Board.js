@@ -1,5 +1,5 @@
 import React from "react";
 
-const ComponentName = props => <div>ComponentName</div>;
+const Board = props => <div>Board</div>;
 
-export default ComponentName;
+export default Board;
